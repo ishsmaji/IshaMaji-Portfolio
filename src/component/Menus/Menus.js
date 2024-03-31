@@ -57,8 +57,6 @@ const Menus = ({ toggle }) => {
                 Tech Stack
               </div>
             </div>
-           
-
             <div className="nav-item">
               <div className="nav-link">
                 <FcVoicePresentation />
